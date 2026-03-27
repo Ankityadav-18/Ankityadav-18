@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Working on<br>Frontend projects + real-world UI builds<br>🤝 Open to<br>Collabs on web apps & AI-based ideas<br>🛠️ Need help with<br>Scaling React apps & integrating AI<br>🌱 Learning<br>Full-stack + AI in web development<br>💬 Ask me about<br>React, JavaScript, UI<br>⚡ Fun fact<br>I build more than I post
+🚀 Working on<br>Frontend projects + real-world UI builds<br>🤝 Open to<br>Collabs on web apps & AI-based ideas<br>🛠️ Need help with<br>Scaling React apps & integrating AI<br>🌱 Learning<br>Full-stack + AI in web development<br>💬 Ask me about<br>React, JavaScript, UI<br>
 
 
 ## 🌐 Socials:
@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=ANKIT KUMAR YADAV&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ANKIT KUMAR YADAV&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+

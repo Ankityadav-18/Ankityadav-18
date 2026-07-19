@@ -1,73 +1,132 @@
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
-<h3 align="center">Frontend Web Developer | React.js | JavaScript | Building Modern Web Applications</h3>
+
+<h3 align="center">
+Frontend Web Developer • React.js • JavaScript • Building Modern Web Applications
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;React.js+%7C+JavaScript+%7C+HTML+%26+CSS;Aspiring+Full+Stack+Developer;Open+to+Internships+and+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Frontend+Web+Developer;React.js+Developer;Open+Source+Learner;Building+AI+Powered+Projects;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.E. Student at Government Engineering College, Daman
-- 💻 Frontend Developer passionate about creating modern UI
-- 🌱 Currently learning Full Stack Development
-- 🚀 Building real-world projects with React.js
-- 📫 Email: **your-email@example.com*
+🎓 B.E. Student (Government Engineering College, Daman)
 
----
+💻 Passionate Frontend Web Developer
 
-## 🚀 Tech Stack
+🚀 Interested In
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,firebase,nodejs,mysql" />
-</p>
+- Full Stack Development
+- Artificial Intelligence
+- Open Source
+- UI/UX
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/ankit-kumar-yadav-686b1737a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="left">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ankityadav-18">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="mailto:a9876yadav@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack
 
-### ✈️ Tripify
-Smart Travel Guide with AI recommendations.
+### Languages
 
-### 🛡️ AI Phishing Detector
-IBM SkillsBuild Project using AI.
+<p>
 
-### 🌦️ Weather App
-Live Weather App using API.
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=Ankityadav-18&show_icons=true&theme=tokyonight)
+✔️ Building Real World Projects
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankityadav-18&theme=tokyonight)
+✔️ Learning Backend Development
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankityadav-18&layout=compact&theme=tokyonight)
+✔️ Open Source Contributions
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Ankityadav-18&theme=tokyonight&margin-w=15)
+✔️ AI Powered Applications
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+
+<img src="https://komarev.com/ghpvc/?username=Ankityadav-18&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>

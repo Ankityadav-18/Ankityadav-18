@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 
+# 👨‍💻 Coding Time
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
+</p>
+
+---
 <h3 align="center">
 Frontend Web Developer • React.js • JavaScript • Building Modern Web Applications
 </h3>
@@ -29,11 +36,11 @@ Frontend Web Developer • React.js • JavaScript • Building Modern Web Appli
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/ankit-kumar-yadav-686b1737a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://portfolio-red-three-26.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -77,21 +84,10 @@ Frontend Web Developer • React.js • JavaScript • Building Modern Web Appli
 
 </p>
 
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
 </p>
 
 ### Database
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
 
 <img src="https://skillicons.dev/icons?i=firebase"/>
 
@@ -100,8 +96,6 @@ Frontend Web Developer • React.js • JavaScript • Building Modern Web Appli
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
@@ -115,9 +109,7 @@ Frontend Web Developer • React.js • JavaScript • Building Modern Web Appli
 
 # 🚀 Current Focus
 
-✔️ Building Real World Projects
-
-✔️ Learning Backend Development
+✔️ Building Real World Projects 
 
 ✔️ Open Source Contributions
 
@@ -134,9 +126,7 @@ Frontend Web Developer • React.js • JavaScript • Building Modern Web Appli
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankityadav-18&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankityadav-18&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
@@ -145,9 +135,11 @@ Frontend Web Developer • React.js • JavaScript • Building Modern Web Appli
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankityadav-18&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Ankityadav-18&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankityadav-18&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankityadav-18&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -163,34 +155,22 @@ Frontend Web Developer • React.js • JavaScript • Building Modern Web Appli
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankityadav-18&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
-## 🌍 Tripify
+## 🤖 AI Phishing Detector
 
-Smart Travel Recommendation Platform
+AI Powered Email Phishing Detection System
 
 *Tech Stack*
 
-- HTML
-- CSS
-- JavaScript
-- Firebase
+- Python
+- Flask
+- Machine Learning
 
 🔗 Repository
 
-https://github.com/Ankityadav-18/Tripify
+https://github.com/Ankityadav-18/AI-Phishing-Detector-IBM
 
----
 
 ## 🔋 Battery Tracker
 
@@ -204,7 +184,7 @@ Battery Health Monitoring Application
 
 🔗 Repository
 
-https://github.com/Ankityadav-18/Battery-Tracker
+https://github.com/Ankityadav-18/Code-with-Ankit
 
 ---
 
@@ -225,19 +205,6 @@ https://github.com/Ankityadav-18/Weather-app
 
 ---
 
-## 🤖 AI Phishing Detector
-
-AI Powered Email Phishing Detection System
-
-*Tech Stack*
-
-- Python
-- Flask
-- Machine Learning
-
-🔗 Repository
-
-https://github.com/Ankityadav-18/AI-Phishing-Detector-IBM
 
 ---
 
@@ -253,17 +220,7 @@ Personal Portfolio
 
 🔗 Repository
 
-https://github.com/Ankityadav-18/Code-with-Ankit
-
----
-
-# 💻 Currently Working On
-
-- 🚀 Tripify
-- 🤖 AI Projects
-- 🌐 Full Stack Development
-- 📱 Responsive UI
-- ⚡ Open Source Contributions
+https://github.com/Ankityadav-18/Portfolio
 
 ---
 
@@ -301,13 +258,7 @@ https://github.com/Ankityadav-18/Code-with-Ankit
 
 ---
 
-# 👨‍💻 Coding Time
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
-</p>
-
----
 
 # 🌟 Open Source Contributions
 
@@ -325,44 +276,6 @@ I love contributing to Open Source Projects and continuously learning by collabo
 
 ---
 
-# 🚀 Learning Journey
-
-🟢 HTML
-
-🟢 CSS
-
-🟢 JavaScript
-
-🟢 React.js
-
-🟡 Node.js
-
-🟡 Express.js
-
-🟡 MongoDB
-
-🟡 Firebase
-
-🟡 Python
-
-🟡 AI & Machine Learning
-
----
-
-# 📌 Goals for 2026
-
-✅ Open Source Contributor
-
-✅ Full Stack Developer
-
-✅ Software Engineer
-
-✅ React Expert
-
-✅ 1000+ GitHub Contributions
-
----
-
 # ⚡ Fun Fact
 
 > I love building beautiful websites and solving real-world problems using code.
@@ -372,27 +285,10 @@ I love contributing to Open Source Projects and continuously learning by collabo
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Ankityadav-18/Ankityadav-18/output/github-contribution-grid-snake.svg">
-
+  <img src="https://raw.githubusercontent.com/Ankityadav-18/Ankityadav-18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
-
-# ☕ Support Me
-
-<p align="center">
-
-<a href="https://github.com/Ankityadav-18">
-
-<img src="https://img.shields.io/badge/Give%20a-Star-yellow?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile 😃
 </h3>

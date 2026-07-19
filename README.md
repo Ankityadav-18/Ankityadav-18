@@ -5,16 +5,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 </p>
-
----
-<h3 align="center">
-Frontend Web Developer • React.js • JavaScript • Building Modern Web Applications
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hello, <Developers/>" />
-</p>
-
 ---
 
 👉 About Me

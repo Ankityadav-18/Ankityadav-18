@@ -12,16 +12,14 @@ Frontend Web Developer • React.js • JavaScript • Building Modern Web Appli
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Frontend+Web+Developer;React.js+Developer;Open+Source+Learner;Building+AI+Powered+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hello, <Developers/>" />
 </p>
 
 ---
 
-# 💫 About Me
+👉 About Me
 
-🎓 B.E. Student (Government Engineering College, Daman)
-
-💻 Passionate Frontend Web Developer
+I'm Ankit Yadav, a B.E. student at Government Engineering College, Daman, and a passionate Frontend Web Developer from India.
 
 🚀 Interested In
 
@@ -280,13 +278,6 @@ I love contributing to Open Source Projects and continuously learning by collabo
 
 > I love building beautiful websites and solving real-world problems using code.
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankityadav-18/Ankityadav-18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 ---
 
 <h3 align="center">
